@@ -1,0 +1,14 @@
+Public Url to GitHub repository (not private) [URL01]
+https://github.com/kelvinator07/DevOps-Project-Three
+
+Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02]
+http://udapeople-9f9d0.s3-website-us-east-1.amazonaws.com
+
+Public URL for your CloudFront distribution (aka, your blue production front-end) [URL03]
+http://d22nbcs2fqp07r.cloudfront.net/
+
+Public URLs to deployed application back-end in EC2 [URL04]
+ec2-44-199-53-82.compute-1.amazonaws.com
+
+Public URL to your Prometheus Server [URL05]
+http://ec2-34-231-241-162.compute-1.amazonaws.com:9090/alerts
